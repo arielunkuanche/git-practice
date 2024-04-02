@@ -1,4 +1,4 @@
-Milk
+To practice merge conflic from shopping list: Milk
 bread
 eggs
 pakasta shrimps
