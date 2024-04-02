@@ -1,4 +1,6 @@
-To practice merge conflict from local:Milk
+
+To practice merge conflict from local and from remote shopping list: Milk
+
 bread
 eggs
 pakasta shrimps
