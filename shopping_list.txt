@@ -3,3 +3,5 @@ bread
 eggs
 pakasta shrimps
 noodles
+kala
+ananas
