@@ -1,4 +1,4 @@
-Milk
+To practice merge conflict from local:Milk
 bread
 eggs
 pakasta shrimps
